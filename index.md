@@ -1,4 +1,3 @@
-# 天津中德应用技术大学 DaVinci Resolve国际认证培训中心
 
 ## 天津中德应用技术大学 DaVinci Resolve国际认证培训中心
 
