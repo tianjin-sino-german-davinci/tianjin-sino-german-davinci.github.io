@@ -24,6 +24,6 @@ DaVinci Resolve作为一款超越传统的影视后期软件，它集成了包�
 ![DaVinci](/pic/zhengshu.png)![DaVinci](/pic/wudi.png)
 
 ## 培训报名
-联系电话：022-28776099
+联系电话：022-28776099  
 地址：天津海河教育园区雅深路2号  
 邮编：300350
