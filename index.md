@@ -23,6 +23,4 @@ DaVinci Resolve作为一款超越传统的影视后期软件，它集成了包�
 <img src=“/pic/zhengshu.png”>
 </p>
 
-<p align=“”center>
-[<font size=20>培训报名</font>](/baoming.md)
-</p>
+[<font size=20>                                                    培训报名</font>](/baoming.md)
