@@ -1,13 +1,15 @@
 # Davinci Resovle国际认证培训中心
 天津中德应用技术大学DaVinci Resolve国际认证培训中心，作为Blackmagic Design天津首个具备DaVinci Resolve国际认证培训中心条件的国际教育管理中心，依托数字媒体艺术专业教学团队和实训条件，秉承Blackmagic Design全球影视尖端产品及优良服务，以协助教育教学机构更好、更快地建立完善的数字艺术教育体系为目标，将为数字媒体艺术专业师生提供专业支持，同时促进教育教学机构的师资培训和数字艺术教育向更高层次发展，致力为我国培养更多的高素质、实用型的数字艺术人才！
 
-![DaVinci](pic/DaVinci_Resolve_Logo.png?style=centerme)
+<p align="center">
+ <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/DaVinci_Resolve_Logo.png">
+</p>
 
 DaVinci Resolve作为一款超越传统的影视后期软件，它集成了包括剪辑、特效合成、调色以及输出等完整的后期工作流程，从而极大简化了一个影视项目所需要的软件工作环节，得到行业的一致认可，它代表了高端后期制作的最高标准，并且比其他软件更加受到好莱坞等国内外影视行业的青睐。例如《阿凡达》《猩球崛起2·黎明之战》《X战警：逆转未来》《007：大破天幕杀机》《谍影重重4·伯恩的遗产》等一系列影视作品皆通过此软件进行后期制作。
 
-<div align=center>
-<img src=“/pic/hero-still.jpeg”>
-</div>
+<p align="center">
+ <img src=“/pic/hero-still.jpeg”>
+</p>
 
 获得认证教师：张绍江，男，天津中德应用技术大学艺术学院数字媒体艺术专业教师，副教授，DaVinci Resolve国际认证培训导师。
 从事领域及研究方向：影视制作技术、虚拟现实制作技术
