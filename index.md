@@ -8,6 +8,8 @@
  <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/DaVinci_Resolve_Logo.png">
 </p>
 
+![DaVinci](/pic/jiaoshi.png)
+
 ## DaVinci Resolve 系统
 DaVinci Resolve作为一款超越传统的影视后期软件，它集成了包括剪辑、特效合成、调色以及输出等完整的后期工作流程，从而极大简化了一个影视项目所需要的软件工作环节，得到行业的一致认可，它代表了高端后期制作的最高标准，并且比其他软件更加受到好莱坞等国内外影视行业的青睐。例如《阿凡达》《猩球崛起2·黎明之战》《X战警：逆转未来》《007：大破天幕杀机》《谍影重重4·伯恩的遗产》等一系列影视作品皆通过此软件进行后期制作。
 
@@ -24,7 +26,9 @@ DaVinci Resolve作为一款超越传统的影视后期软件，它集成了包�
 主讲课程：《影视特效合成》、《影视栏目包装》、《3D影视制作》、《数字声音创作》等。
 
 ![DaVinci](/pic/zhengshu.png)
+![DaVinci](/pic/wudi.png)
 
 ## 培训报名
+联系电话：022-28776099
 地址：天津海河教育园区雅深路2号  
 邮编：300350
