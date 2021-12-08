@@ -19,8 +19,6 @@ DaVinci Resolve作为一款超越传统的影视后期软件，它集成了包�
 从事领域及研究方向：影视制作技术、三维动画制作技术、交互影像创作
 主讲课程：《影视特效合成》、《影视栏目包装》、《3D影视制作》、《数字声音创作》等。
 
-<p align=“center”>
-<img src=“/pic/zhengshu.png”>
-</p>
+![DaVinci]<pic/zhengshu.png>
 
 [<font size=20>                                                    培训报名</font>](/baoming.md)
