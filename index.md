@@ -8,16 +8,14 @@
 DaVinci Resolve作为一款超越传统的影视后期软件，它集成了包括剪辑、特效合成、调色以及输出等完整的后期工作流程，从而极大简化了一个影视项目所需要的软件工作环节，得到行业的一致认可，它代表了高端后期制作的最高标准，并且比其他软件更加受到好莱坞等国内外影视行业的青睐。例如《阿凡达》《猩球崛起2·黎明之战》《X战警：逆转未来》《007：大破天幕杀机》《谍影重重4·伯恩的遗产》等一系列影视作品皆通过此软件进行后期制作。
 
 <p align="center">
- <img src=“/pic/hero-still.jpeg”>
+ <img src=“https://images.blackmagicdesign.com/images/products/davinciresolve/edit/hero/hero-still.jpg?_v=1592448885”>
 </p>
 
 获得认证教师：张绍江，男，天津中德应用技术大学艺术学院数字媒体艺术专业教师，副教授，DaVinci Resolve国际认证培训导师。
 从事领域及研究方向：影视制作技术、虚拟现实制作技术
 主讲课程：《影视摄影与摄像》、《影视特效合成》、《数字影视调色》等。
 <div align=center>
-<img src=“/pic/zhengshu.png”>
+<img src=“https://ysxy.tsguas.edu.cn/__local/7/3F/A3/AD7C58B4779DD36AE5F7047195B_AA1F6637_98219.png”>
 </div>
 
-<div align=center>
 [<font size=20>培训报名</font>](/baoming.md)
-</div>
