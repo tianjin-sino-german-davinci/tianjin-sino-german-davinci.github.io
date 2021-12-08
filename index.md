@@ -1,4 +1,4 @@
-天津中德应用技术大学                  <br>DaVinci Resolve国际认证培训中心
+天津中德应用技术大学 DaVinci Resolve国际认证培训中心
 ======================================
 
 天津中德应用技术大学DaVinci Resolve国际认证培训中心，作为Blackmagic Design天津首个具备DaVinci Resolve国际认证培训中心条件的国际教育管理中心，依托数字媒体艺术专业教学团队和实训条件，秉承Blackmagic Design全球影视尖端产品及优良服务，以协助教育教学机构更好、更快地建立完善的数字艺术教育体系为目标，将为数字媒体艺术专业师生提供专业支持，同时促进教育教学机构的师资培训和数字艺术教育向更高层次发展，致力为我国培养更多的高素质、实用型的数字艺术人才！
@@ -21,4 +21,4 @@ DaVinci Resolve作为一款超越传统的影视后期软件，它集成了包�
 
 ![DaVinci](/pic/zhengshu.png)
 
-[<font size=20>培训报名</font>](/baoming.md)
+<center><font size=20>培训报名</font></center>
